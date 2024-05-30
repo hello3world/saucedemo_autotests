@@ -1,6 +1,4 @@
 /python_selenium/
-/autotest_l.py
-/python_selenium/
 /python_selenium/locales/
 /python_selenium/MEIPreload/
 /python_selenium/123.0.6312.86.manifest
@@ -30,3 +28,5 @@
 /python_selenium/vk_swiftshader.dll
 /python_selenium/vk_swiftshader_icd.json
 /python_selenium/vulkan-1.dll
+/autotests_les1.py
+/autotest_l.py
